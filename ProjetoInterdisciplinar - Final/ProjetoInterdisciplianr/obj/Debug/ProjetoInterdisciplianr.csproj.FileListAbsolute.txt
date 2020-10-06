@@ -1,0 +1,13 @@
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\bin\Debug\ProjetoInterdisciplianr.exe.config
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\bin\Debug\ProjetoInterdisciplianr.exe
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\bin\Debug\ProjetoInterdisciplianr.pdb
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.Properties.Resources.resources
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.exe
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.pdb
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.frmMain.resources
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.frmClients.resources
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.frmCarPieces.resources
+C:\Users\bruno\source\repos\ProjetoInterdisciplianr\ProjetoInterdisciplianr\obj\Debug\ProjetoInterdisciplianr.frmEmployees.resources
